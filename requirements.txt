@@ -1,0 +1,4 @@
+
+### 2. `requirements.txt`
+#List the required Python packages.
+pygame
